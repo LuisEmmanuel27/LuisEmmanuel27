@@ -71,7 +71,7 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <br />
-  <a href="https://portafolo-web-lerf.netlify.app/">Mi portafolío web 💼</a>
+  <a href="https://main--portafolio-lerf-astr.netlify.app/">Mi portafolío web 💼</a>
 </div>
 
 ---
@@ -143,5 +143,5 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <br />
-  <a href="https://portafolo-web-lerf.netlify.app/">My web portfolio 💼</a>
+  <a href="https://main--portafolio-lerf-astr.netlify.app/">My web portfolio 💼</a>
 </div>
