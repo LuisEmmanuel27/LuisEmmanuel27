@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="JSON Web Tokens"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="NextJs" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Astro.svg" width="30px" height="auto" alt="Astro"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="30px" height="auto" alt="Docker"/>
@@ -115,6 +116,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="JSON Web Tokens"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="NextJs" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Astro.svg" width="30px" height="auto" alt="Astro"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="30px" height="auto" alt="Docker"/>
