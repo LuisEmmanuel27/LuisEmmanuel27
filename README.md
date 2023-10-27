@@ -45,6 +45,7 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NextJS-Dark.svg" width="30px" height="auto" alt="NextJs" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Astro.svg" width="30px" height="auto" alt="Astro"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="30px" height="auto" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="60px" height="auto" alt="AWS"/>
 </div>
 
 <h1>Tecnologías que quiero estudiar/próximamente comenzar:</h1>
@@ -53,7 +54,6 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GraphQL-Dark.svg" width="60px" height="auto" alt="GraphQL"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redis-Dark.svg" width="60px" height="auto" alt="Redis"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kubernetes.svg" width="60px" height="auto" alt="Kubernetes"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="60px" height="auto" alt="AWS"/>
 </div>
 
 <h1>Mis estadísticas de GitHub:</h1>
@@ -122,6 +122,7 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NextJS-Dark.svg" width="30px" height="auto" alt="NextJs" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Astro.svg" width="30px" height="auto" alt="Astro"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="30px" height="auto" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="60px" height="auto" alt="AWS"/>
 </div>
 
 <h1>Technologies I want to study/soon to start:</h1>
@@ -129,7 +130,6 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GraphQL-Dark.svg" width="60px" height="auto" alt="GraphQL"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redis-Dark.svg" width="60px" height="auto" alt="Redis"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kubernetes.svg" width="60px" height="auto" alt="Kubernetes"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="60px" height="auto" alt="AWS"/>
 </div>
 
 <h1>My GitHub stats:</h1>
